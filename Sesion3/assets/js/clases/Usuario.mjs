@@ -16,7 +16,7 @@ class Persona {
 class Paciente extends Persona {
   constructor({nombre, fecha_nacimiento, rut, genero}) {
     super({ nombre, fecha_nacimiento, rut, genero });
-
+    
   }
 }
 
